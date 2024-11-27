@@ -16,7 +16,7 @@ dependencies:
   intl: ^0.18.0
 
 dev_dependencies:
-  bloc_test: ^9.1.2
+  bloc_test: ^9.1.7
   flutter_test:
     sdk: flutter
   mocktail: ^1.0.3
